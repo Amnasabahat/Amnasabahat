@@ -6,7 +6,7 @@
 
 A passionate AI  and Web Enthusiast 
 
-- 🔭 I’m currently working on different AI Projects at **HeadstarterAI**.
+- 🔭 I’m currently working on Project **FYP**.
 - 🌱 I’m currently pursuing **BS Degree In IT**.
 - 👯 I’m looking to collaborate on **web Projects**.
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Amnasabahat).
