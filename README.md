@@ -17,7 +17,7 @@ A passionate AI  and Web Enthusiast
 - [Kaggle](https://www.kaggle.com/amnaasabahat)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=css,firebase,html,js,python,react,nextjs,seaborn,sql)](https://github.com/Amnasabahat)
+[![My Skills](https://skillicons.dev/icons?i=css,firebase,html,python,seaborn,sql,matplotlib,pandas,numpy,scikitlearn,jupyter,vscode)](https://github.com/Amnasabahat)
 
 ### 📊 Weekly Stats:
 <!-- This is where you can embed widgets or tools to display your contributions, longest streak, and current streak. -->
