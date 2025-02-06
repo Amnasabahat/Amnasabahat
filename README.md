@@ -8,7 +8,7 @@ A passionate AI  and Web Enthusiast
 
 - 🔭 I’m currently working on Project **FYP**.
 - 🌱 I’m currently pursuing **BS Degree In IT**.
-- 👯 I’m looking to collaborate on **web Projects**.
+- 👯 I’m looking to collaborate on **AI Projects**.
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/Amnasabahat).
 - 📫 Reach me via my [**Linktree**](https://linktr.ee/amna_sabahat).
 
