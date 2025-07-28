@@ -3,7 +3,7 @@
 **AI & Web Development Enthusiast | Machine Learning Learner | IT Graduate**
 ---
 
-###  About Me
+###  A little About Me
 
 - 🔭 Currently working on AI-based projects, exploring deep learning and data science.
 - 🌱 Recently graduated in **Information Technology**.
