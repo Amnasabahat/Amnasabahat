@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! 👋 I'm Amna Sabahat
+# Hi there!👋 I'm Amna Sabahat
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Web+Development+Enthusiast;Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+Enthusiast;Machine+Learning+Engineer;AI+Explorer" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Amnasabahat&color=6366f1&style=flat-square)](https://github.com/Amnasabahat)
 [![GitHub followers](https://img.shields.io/github/followers/Amnasabahat?label=Followers&style=flat-square&color=6366f1)](https://github.com/Amnasabahat)
@@ -14,17 +14,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate **IT Graduate** specializing in **Artificial Intelligence** and **Web Development**. I love turning complex problems into elegant solutions through code and data.
+I'm a passionate **IT Graduate** specializing in **Artificial Intelligence** . I love turning complex problems into elegant solutions through code and data.
 
 ```python
 class AmnaSabahat:
     def __init__(self):
         self.name = "Amna Sabahat"
-        self.role = "AI & Full-Stack Developer"
+        self.role = "AI Enthusiastic"
         self.education = "B.S. Information Technology"
         self.location = "Pakistan"
-        self.languages = ["Python", "JavaScript", "SQL", "HTML/CSS"]
-        self.interests = ["Machine Learning", "Data Science", "Web Development", "AI Research"]
+        self.languages = ["Python", "HTML/CSS", "C++"]
+        self.interests = ["Machine Learning", "Data Science", "AI Research"]
         self.current_focus = "Building AI-powered applications"
     
     def get_goals(self):
@@ -34,7 +34,7 @@ class AmnaSabahat:
 ### 🎯 What I'm Up To
 
 - **Currently Building**: AI-powered healthcare complaint processing system
-- **Learning**: Advanced Deep Learning, MLOps, and Cloud Technologies
+- **Learning**: Advanced Deep Learning, Machine Learning
 - **Looking to Collaborate**: Open-source AI projects, innovative web applications
 - **Passionate About**: Solving real-world problems with AI and data
 - **Always Exploring**: Latest trends in ML/AI and modern web frameworks
@@ -47,7 +47,6 @@ class AmnaSabahat:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -110,7 +109,7 @@ class AmnaSabahat:
 ## 💭 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pandas is the Backbone of Python Data Science?](https://medium.com/towards-artificial-intelligence/why-pandas-is-the-backbone-of-python-data-science-4369965cbfa5)
+- [Normalization Techniques](https://medium.com/towards-artificial-intelligence/z-score-standardization-standardscaler-7f8f453e47a2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -123,14 +122,8 @@ If you find my projects helpful, consider giving them a ⭐!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amnasabahat)
 
----
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-**"Code is like humor. When you have to explain it, it's bad."** - Cory House
-
-*Let's build something amazing together!*
 
 </div>
